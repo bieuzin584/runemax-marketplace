@@ -1,6 +1,6 @@
 {
   "name": "Tibia 7.4 RMT Market - Runas & BPs",
-  "description": "Marketplace e plataforma de negociação em tempo real para compra e venda de BPs de UH, SD, Runas e Gold nos servidores Miracle 7.4, Mythera 7.4 e DeusOLD 7.4 com cotação ao vivo e contato direto via Pix/WhatsApp/Discord.",
+  "description": "Marketplace oficial para compra e venda de BPs de UH, SD, GFB, Avalanche, HMM e Explosion nos servidores Miracle 7.4, Mythera 7.4 e DeusOLD 7.4 com entrega via Safe Trade e Pix imediato.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
